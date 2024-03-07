@@ -1,1 +1,1 @@
-server_ip = 'auto'
+server_ip = 'blabla'
